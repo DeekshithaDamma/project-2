@@ -1,0 +1,15 @@
+.background{
+    background-image: url('https://tse2.mm.bing.net/th?id=OIP.4cQVkHIcZ8bol0c6FO0s4AHaEK&pid=Api&P=0&h=180');
+
+}
+#center{
+    width: 400px;
+    height: 700px;
+    margin: auto;
+    position: relative;
+    border: 3px solid black;
+    justify-content: center;
+    background-image: url('https://image.freepik.com/free-photo/palette-calculator-bow-red-background_23-2148182111.jpg');
+    background-size: 400px 700px;
+    
+}
